@@ -1,0 +1,10 @@
+nav,
+ul {
+  color: white;
+  background-color: tomato;
+  display: flex;
+  gap: 270px;
+  list-style: none;
+  height: 47px;
+  align-items: center;
+}

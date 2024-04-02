@@ -1,0 +1,15 @@
+/* .card-container {
+  display: flex;
+  justify-content: flex-start;
+  gap: 16px;
+} */
+
+.card {
+  width: 20vw;
+  border: 2px solid black;
+  margin: 17px;
+  height: 130px;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+}
